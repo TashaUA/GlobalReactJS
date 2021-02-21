@@ -11,3 +11,5 @@ ReactDOM.render(
 </StrictMode>,
 rootElement
 );
+
+console.log('Hello world');
